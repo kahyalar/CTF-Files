@@ -1,0 +1,1 @@
+Found this weird hash function, can you figure it out?
